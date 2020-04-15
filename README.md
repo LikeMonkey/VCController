@@ -7,5 +7,5 @@
 
 仿微信朋友圈功能
 
-![image](https://github.com/gengluchao/VCController/blob/master/pictureOne)
+![image](https://github.com/gengluchao/VCController/blob/master/pictureOne.png)
 ![image](https://github.com/gengluchao/VCController/blob/master/search.png)
