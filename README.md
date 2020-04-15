@@ -6,3 +6,5 @@
 热门搜索功能
 
 仿微信朋友圈功能
+
+![image](https://github.com/gengluchao/VCController/blob/master/pictureOne)
